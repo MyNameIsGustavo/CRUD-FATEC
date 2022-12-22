@@ -1,0 +1,1 @@
+A CRUD WEB application built in HTML5, CSS3 and JavaScript to manage college semester information.
